@@ -1,8 +1,10 @@
 # M3_Wiper-Control-System
 
-### CODIGA ![CODIGA](https://api.codiga.io/project/33371/status/svg)
+### CODIGA 
+![CODIGA](https://api.codiga.io/project/33371/status/svg)
 
-### CODIGA ![CODIGA](https://api.codiga.io/project/33371/score/svg)
+### CODIGA 
+![CODIGA](https://api.codiga.io/project/33371/score/svg)
 
 CODACY
 
